@@ -87,11 +87,11 @@ yarn ios
 ```
 src/
 ├── components/
-│   ├── PhotoItem.js          # Item da galeria
-│   ├── PhotoViewer.js        # Visualizador com gestos
-│   └── LoadingAnimation.js   # Animação de loading
+│   ├── ItemFoto.js          # Item da galeria
+│   ├── VisualizadorFoto.js        # Visualizador com gestos
+│   └── AnimacaoCarregamento.js   # Animação de loading
 ├── screens/
-│   └── GalleryScreen.js      # Tela principal
+│   └── TelaGaleria.js      # Tela principal
 └── App.js                    # Componente raiz
 ```
 
