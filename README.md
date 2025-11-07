@@ -26,8 +26,8 @@
 
 1. **Clone o repositório:**
 ```bash
-git clone <url-do-repositorio>
-cd ads-mobile
+git clone https://github.com/catevildev/ads-momenty
+cd ads-momenty
 ```
 
 2. **Instale as dependências:**
